@@ -39,8 +39,8 @@ To set up the project locally, follow these steps:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/bex200/real-time-anomaly-detection.git
-   cd real-time-anomaly-detection
+   git clone https://github.com/bex200/energy_anomaly_detection.git
+   cd energy_anomaly_detection
    ```
 
 2. **Create a Virtual Environment (Optional but Recommended)**
