@@ -28,6 +28,7 @@ The Isolation Forest algorithm isolates observations by randomly partitioning th
 ├── app.py                # Main application file to run the Dash app
 ├── callbacks.py          # Contains callbacks for updating the graph and handling user interactions
 ├── data_generation.py     # Generates synthetic data and detects anomalies
+├── layout.py              # For a proper layout styling
 ├── requirements.txt       # List of Python package dependencies
 └── README.md              # Project documentation
 ```
